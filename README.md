@@ -1,2 +1,2 @@
-# WALLE-Rescue-Robot
-A rescue robot me and 3 others worked on together that was inspired for by our university course.
+# Student DataBase
+A student Database that takes in the students details and is able to calculate its tuirion and id depending on the amount of courses and grade level.
